@@ -1,6 +1,7 @@
 # 📺 Netflix Clone 🎬
 
-![Netlify Status](https://img.shields.io/netlify/your-netlify-badge-here)  
+
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue?logo=github)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
@@ -11,8 +12,7 @@ A **responsive Netflix Clone** made with **HTML & CSS only** — for learning an
 
 ## 🚀 **Live Demo**
 
-👉 [View Live on Netlify](https://your-netlify-link.netlify.app)  
-*(Replace with your deployed link)*
+👉 [View Live](https://madebykhush.github.io/Netflix-Clone-2025/))  
 
 ---
 
